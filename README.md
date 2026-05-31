@@ -104,7 +104,7 @@ I enjoy building things that bridge the physical and digital world — from PLC-
 ## 🚀 Projects
 
 ### 🔔 Smart Doorbell with Face Recognition
-[`View on GitHub`](https://github.com/jishnu314/)
+[`View on GitHub`](https://github.com/Jishnu314/Smart-Calling--Bell-IoT-project)
 
 A smart doorbell that uses facial recognition to grant or deny access and alerts the owner about unknown visitors instantly.
 
@@ -116,7 +116,7 @@ A smart doorbell that uses facial recognition to grant or deny access and alerts
 ---
 
 ### 👓 Smart Glasses for the Visually Impaired
-[`View on GitHub`](https://github.com/jishnu314/)
+[`View on GitHub`](https://github.com/Jishnu314/Smart-Specs-For-Blind)
 
 An AI-powered assistive wearable helping visually impaired users navigate, shop, and interact socially with greater independence.
 
