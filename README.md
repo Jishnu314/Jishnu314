@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jishnu+K+👋;Applied+Electronics+%26+Instrumentation+Engineer;Building+Smart+Systems+with+AI+%26+Hardware;PLC+%7C+Embedded+%7C+Computer+Vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jishnu+K+👋;Applied+Electronics+%26+Instrumentation+Engineer;Building+Smart+Systems+with+AI+%26+Hardware;PLC+%7C+Embedded+%7C+Computer+Vision)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,7 +24,6 @@ I enjoy building things that bridge the physical and digital world — from PLC-
 - 🔭 Currently working on **AI-powered assistive devices**
 - 🌱 Currently learning **Deep Learning & Edge AI deployment**
 - 💬 Ask me about **Embedded Systems, PLC, Computer Vision**
-- 📫 Reach me at **jishnukolar4@gmail.com**
 - ⚡ Fun fact: I built glasses that can *see* for the visually impaired!
 
 ---
