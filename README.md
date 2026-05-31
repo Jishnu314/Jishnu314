@@ -8,11 +8,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-jishnukolar4@gmail.com-black?style=flat-square&logo=gmail)](mailto:jishnukolar4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jishnu314-black?style=flat-square&logo=github)](https://github.com/jishnu314)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel)](https://portfolio.com)
-[![Visitor Count](https://komarev.com/ghpvc/?username=jishnu314&style=flat-square&color=black&label=Profile+Views)](https://github.com/jishnu314)
 
 </div>
 
@@ -27,7 +23,6 @@ I enjoy building things that bridge the physical and digital world — from PLC-
 - 🔭 Currently working on **AI-powered assistive devices**
 - 🌱 Currently learning **Deep Learning & Edge AI deployment**
 - 💬 Ask me about **Embedded Systems, PLC, Computer Vision**
-- 📫 Reach me at **jishnukolar4@gmail.com**
 - ⚡ Fun fact: I built glasses that can *see* for the visually impaired!
 
 ---
@@ -109,7 +104,7 @@ I enjoy building things that bridge the physical and digital world — from PLC-
 ## 🚀 Projects
 
 ### 🔔 Smart Doorbell with Face Recognition
-[`View on GitHub`](https://github.com/jishnu314)
+[`View on GitHub`](https://github.com/jishnu314/)
 
 A smart doorbell that uses facial recognition to grant or deny access and alerts the owner about unknown visitors instantly.
 
@@ -121,7 +116,7 @@ A smart doorbell that uses facial recognition to grant or deny access and alerts
 ---
 
 ### 👓 Smart Glasses for the Visually Impaired
-[`View on GitHub`](https://github.com/jishnu314)
+[`View on GitHub`](https://github.com/jishnu314/)
 
 An AI-powered assistive wearable helping visually impaired users navigate, shop, and interact socially with greater independence.
 
@@ -173,9 +168,7 @@ An AI-powered assistive wearable helping visually impaired users navigate, shop,
 
 ## 📬 Get in Touch
 
-- 📧 [jishnukolar4@gmail.com](mailto:jishnukolar4@gmail.com)
-- 📞 +91 98474 02566
-- 🌐 [Portfolio](https://portfolio.com) · [LinkedIn](https://linkedin.com) · [GitHub](https://github.com/jishnu314)
+- 🌐 [Portfolio](https://jishnu314.github.io/in/) · [GitHub](https://github.com/jishnu314)
 
 ---
 
