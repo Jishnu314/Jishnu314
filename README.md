@@ -5,10 +5,10 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-jishnukolar4@gmail.com-black?style=flat-square&logo=gmail)](mailto:jishnukolar4@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jishnu314-black?style=flat-square&logo=github)](https://github.com/jishnu314)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel)](https://portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel)](https://github.com/jishnu314)
 [![Visitor Count](https://komarev.com/ghpvc/?username=jishnu314&style=flat-square&color=black&label=Profile+Views)](https://github.com/jishnu314)
 
 </div>
