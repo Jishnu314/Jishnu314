@@ -1,14 +1,17 @@
 <div align="center">
 
+<!-- Name with gradient via SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=99999&color=FF6B00&center=true&vCenter=true&width=600&lines=Jishnu+K" alt="Jishnu K" />
+
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jishnu+K+👋;Applied+Electronics+%26+Instrumentation+Engineer;Building+Smart+Systems+with+AI+%26+Hardware;PLC+%7C+Embedded+%7C+Computer+Vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Applied+Electronics+%26+Instrumentation+Engineer;Building+Smart+Systems+with+AI+%26+Hardware;PLC+%7C+Embedded+%7C+Computer+Vision;Open+to+Internships+%26+Collaborations+🚀)](https://git.io/typing-svg)
 
 <br/>
 
-
+[![Email](https://img.shields.io/badge/Email-jishnukolar4@gmail.com-black?style=flat-square&logo=gmail)](mailto:jishnukolar4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jishnu314-black?style=flat-square&logo=github)](https://github.com/jishnu314)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel)](https://github.com/jishnu314)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel)](https://portfolio.com)
 [![Visitor Count](https://komarev.com/ghpvc/?username=jishnu314&style=flat-square&color=black&label=Profile+Views)](https://github.com/jishnu314)
 
 </div>
@@ -24,38 +27,71 @@ I enjoy building things that bridge the physical and digital world — from PLC-
 - 🔭 Currently working on **AI-powered assistive devices**
 - 🌱 Currently learning **Deep Learning & Edge AI deployment**
 - 💬 Ask me about **Embedded Systems, PLC, Computer Vision**
+- 📫 Reach me at **jishnukolar4@gmail.com**
 - ⚡ Fun fact: I built glasses that can *see* for the visually impaired!
 
 ---
 
 ## 🛠 Technical Skills
 
-**Languages**
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=white)
+### 💻 Languages
+<div align="center">
 
-**Tools & Platforms**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=flat-square&logo=mathworks&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-000000?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+</div>
+    </td>
+    <td valign="top" width="33%">
 
-**AI & Computer Vision**
+### 🤖 AI & Computer Vision
+<div align="center">
 
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TFLite-000000?style=flat-square&logo=tensorflow&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-000000?style=flat-square&logo=google&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
-**Industrial Automation**
+</div>
+    </td>
+    <td valign="top" width="33%">
 
-`PLC Programming` `SCADA Systems` `RSLogix 500` `Ladder Logic` `CodeSys` `LT Spice` `Proteus 8`
+### ⚙️ Tools & Hardware
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1B4F72?style=for-the-badge&logoColor=white)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+### 🏭 Industrial Automation
+<div align="center">
+
+![PLC](https://img.shields.io/badge/PLC_Programming-FF6B00?style=for-the-badge&logoColor=white)
+![SCADA](https://img.shields.io/badge/SCADA_Systems-FF6B00?style=for-the-badge&logoColor=white)
+![RSLogix](https://img.shields.io/badge/RSLogix_500-FF6B00?style=for-the-badge&logoColor=white)
+![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-FF6B00?style=for-the-badge&logoColor=white)
+![CodeSys](https://img.shields.io/badge/CodeSys-FF6B00?style=for-the-badge&logoColor=white)
+![LT Spice](https://img.shields.io/badge/LT_Spice-FF6B00?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
@@ -110,11 +146,16 @@ An AI-powered assistive wearable helping visually impaired users navigate, shop,
 
 <div align="center">
 
-![Jishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jishnu314&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=jishnu314&show_icons=true&hide_border=true&title_color=FF6B00&icon_color=FF6B00&text_color=333333&bg_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnu314&layout=compact&hide_border=true&title_color=FF6B00&text_color=333333&bg_color=ffffff&langs_count=8" height="180" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jishnu314&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jishnu314&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&dates=555555)
+<img src="https://streak-stats.demolab.com?user=jishnu314&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=333333&dates=555555&background=ffffff&stroke=FF6B00&currStreakNum=000000&sideNums=000000" height="180" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jishnu314&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=FF6B00" />
 
 </div>
 
@@ -132,7 +173,9 @@ An AI-powered assistive wearable helping visually impaired users navigate, shop,
 
 ## 📬 Get in Touch
 
-- 🌐 [Portfolio](https://jishnu314.github.io/in/) · [LinkedIn](https://linkedin.com) · [GitHub](https://github.com/jishnu314)
+- 📧 [jishnukolar4@gmail.com](mailto:jishnukolar4@gmail.com)
+- 📞 +91 98474 02566
+- 🌐 [Portfolio](https://portfolio.com) · [LinkedIn](https://linkedin.com) · [GitHub](https://github.com/jishnu314)
 
 ---
 
