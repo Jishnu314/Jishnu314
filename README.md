@@ -8,8 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel)](https://portfolio.com)
-
+[![Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-FF6B00?style=for-the-badge&logoColor=white)](https://jishnu314.github.io/in/)
 </div>
 
 ---
