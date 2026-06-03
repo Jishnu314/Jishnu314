@@ -91,7 +91,8 @@ An AI-powered assistive wearable helping visually impaired users navigate, shop,
 | 🚨 | Fall detection with SOS + live GPS to trusted contacts |
 
 `Python` `RPi 4` `OpenCV` `YOLOv8` `MobileFaceNet` `TFLite` `Gemini API` `Firebase`
-
+<br>
+<br>
 </td>
 </tr>
 <br>
