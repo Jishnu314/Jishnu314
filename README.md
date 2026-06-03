@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWs1MTk4M25jc2UwdXdlZmV1MXRyNDVkYTNyemsybnZuYjNkZTZpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcSn86GKpAYbS/giphy.gif" />
 
 Final-year **B.Tech student** in Applied Electronics & Instrumentation at APJ Abdul Kalam Technological University (2022–2026), passionate about embedded systems, industrial automation, and AI-powered assistive technology.
 
