@@ -7,9 +7,7 @@
 
 <div align="center">
 
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=750&lines=Applied+Electronics+%26+Instrumentation+Engineer;Building+Smart+Systems+at+the+Edge+of+Hardware+%26+AI;PLC+%7C+Embedded+Systems+%7C+Computer+Vision+%7C+Edge+AI;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
-
 
 <br/><br/>
 
@@ -23,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWs1MTk4M25jc2UwdXdlZmV1MXRyNDVkYTNyemsybnZuYjNkZTZpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcSn86GKpAYbS/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 Final-year **B.Tech student** in Applied Electronics & Instrumentation at APJ Abdul Kalam Technological University (2022–2026), passionate about embedded systems, industrial automation, and AI-powered assistive technology.
 
