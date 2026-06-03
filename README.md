@@ -38,11 +38,17 @@ class Jishnu:
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,opencv,tensorflow,raspberrypi,arduino,matlab,vscode,github,firebase,git,linux&perline=15" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,opencv,tensorflow,raspberrypi,arduino,matlab,vscode,github,firebase,git,linux,nasm&perline=16" />
+
+<img src="https://api.iconify.design/simple-icons:proteus.svg?color=%231A73E8" width="48" height="48" title="Proteus"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:ltspice.svg?color=%23FF6B00" width="48" height="48" title="LTspice"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:assemblyscript.svg?color=%23ffffff" width="48" height="48" title="Assembly"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:rockwellautomation.svg?color=%23FF6B00" width="48" height="48" title="RSLogix 500"/>
 
 </div>
 
