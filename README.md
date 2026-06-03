@@ -13,7 +13,6 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-FF6B00?style=for-the-badge&logoColor=white)](https://jishnu314.github.io/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jishnu314)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 </div>
 
@@ -30,7 +29,6 @@ I enjoy building things that **bridge the physical and digital world** — from 
 ```python
 class Jishnu:
     pronouns     = "he/him"
-    location     = "Kerala, India 🇮🇳"
     current      = ["Edge AI", "TFLite Deployment", "Assistive Tech"]
     ask_me_about = ["Embedded Systems", "PLC", "Computer Vision"]
     fun_fact     = "Built glasses that SEE for the visually impaired 👓"
