@@ -23,7 +23,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Final-year **B.Tech student** in Applied Electronics & Instrumentation at APJ Abdul Kalam Technological University (2022–2026), passionate about embedded systems, industrial automation, and AI-powered assistive technology.
+**B.Tech Graduate** in Applied Electronics & Instrumentation at APJ Abdul Kalam Technological University (2022–2026), passionate about embedded systems, industrial automation, and AI-powered assistive technology.
 
 I enjoy building things that **bridge the physical and digital world** — from PLC-controlled industrial systems to intelligent wearables that help people live more independently.
 
@@ -37,21 +37,6 @@ class Jishnu:
 ```
 
 <br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jishnu314&show_icons=true&hide_border=true&title_color=FF6B00&icon_color=FF6B00&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnu314&layout=compact&hide_border=true&title_color=FF6B00&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="170" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=jishnu314&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=c9d1d9&dates=888888&background=0d1117&stroke=FF6B00&currStreakNum=ffffff&sideNums=ffffff" height="170" />
-
-</div>
 
 ---
 
