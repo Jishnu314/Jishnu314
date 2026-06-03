@@ -94,6 +94,7 @@ An AI-powered assistive wearable helping visually impaired users navigate, shop,
 
 </td>
 </tr>
+<br>
 <tr>
 <td>
 
