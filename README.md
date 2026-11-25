@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Jishnu 
-**Embedded Systems · Robotics · IoT **
+**Embedded Systems · Robotics · IoT**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)]([your-portfolio-url])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url])
