@@ -1,9 +1,11 @@
 <div align="center">
 
-<h3 align="center">Hi, I'm Jishnu 👋</h3>
-**Embedded Systems · Robotics · IoT**
+<h3>Hi, I'm Jishnu </h3>
+<p><b>Embedded Systems · Robotics · IoT</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jishnu314.github.io/web/)
+<a href="https://jishnu314.github.io/web/">
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 </div>
 
