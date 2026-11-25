@@ -41,9 +41,8 @@
 ### 🚀 Featured Projects
 | Project | Description | Stack |
 |---|---|---|
-| **[Project 1]** | [One-line summary] | [Stack] |
-| **[Project 2]** | [One-line summary] | [Stack] |
-| **[Project 3]** | [One-line summary] | [Stack] |
+| **Smart-Specs-For-Blind** | Smart glasses to help visually impaired users | Embedded C/C++ |
+| **Smart-Calling--Bell-IoT-project** | IoT calling bell system | C++, ESP32 |
 
 ### 📊 GitHub Stats
 <p align="left">
@@ -51,7 +50,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu314&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
-### 📂 Projects (auto-updated)
+### 📂 Projects 
 <!-- REPOS:START -->
 <details>
 <summary><b>web</b> · ⭐ 1 · JavaScript</summary>
@@ -140,6 +139,5 @@ face_recognition/
 
 <div align="center">
 
-⭐ *[Your tagline]* ⭐
-
+⭐ *Building at the intersection of hardware and AI.* ⭐
 </div>
