@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jishnu 👋
+# Hi, I'm Jishnu 
 **Embedded Systems · Robotics · IoT**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jishnu314.github.io/web/)
