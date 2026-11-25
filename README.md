@@ -41,7 +41,7 @@
 ### 🚀 Featured Projects
 | Project | Description | Stack |
 |---|---|---|
-| **Smart-Specs-For-Blind** | Smart glasses to help visually impaired users | Embedded C/C++ |
+| **Smart-Specs-For-Blind** | Smart glasses to help visually impaired users | Python, Local LLM, Custom code |
 | **Smart-Calling--Bell-IoT-project** | IoT calling bell system | C++, ESP32 |
 
 ### 📊 GitHub Stats
