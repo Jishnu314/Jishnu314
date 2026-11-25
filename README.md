@@ -1,14 +1,12 @@
 <div align="center">
 
-# Hi, I'm Jishnu 
+# Hi, I'm Jishnu 👋
 **Embedded Systems · Robotics · IoT**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)]([your-portfolio-url])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url])
 
 </div>
-
----
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -25,19 +23,16 @@
 | **[Project 1]** | [One-line summary] | [Stack] |
 | **[Project 2]** | [One-line summary] | [Stack] |
 | **[Project 3]** | [One-line summary] | [Stack] |
-| **[Project 4]** | [One-line summary] | [Stack] |
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jishnu314&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu314&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ### 📂 Projects (auto-updated)
 <!-- REPOS:START -->
 <!-- REPOS:END -->
-
----
 
 <div align="center">
 
